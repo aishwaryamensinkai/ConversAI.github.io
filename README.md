@@ -13,7 +13,7 @@ Welcome to the ConversAI project! This repository contains the code for a conver
 │   └── ConversAI.png
 ├── css
 │   └── styles.css
-├── indexl.html
+├── index.html
 ├── scripts
 │   └── script.js
 └── videos
